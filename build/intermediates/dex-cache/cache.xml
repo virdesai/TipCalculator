@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Vir\AndroidstudioProjects\Tip Calculator\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ff2d7f5022b5a92fc988e7ecf40140c2621ade2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vir\AndroidstudioProjects\Tip Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Vir\AndroidstudioProjects\Tip Calculator\app\build\intermediates\pre-dexed\debug\classes-a0ad15bb0ce2a881ee5c7b7dcf945524e7a64549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vir\AndroidstudioProjects\Tip Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Vir\AndroidstudioProjects\Tip Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4e69946b1196b3b1bc24718eed02aa2962cdcb3a.jar" />
+    </item>
+
+</items>
